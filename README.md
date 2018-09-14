@@ -1,11 +1,11 @@
 # docker-compose-load-balancing
-1. Download code
+# 1. Download code
 
   $git clone https://github.com/nguyenan122/docker-compose-load-balancing.git
 
 
 
-2. Start service
+# 2. Start service
 
   $docker-compose up
 
@@ -16,7 +16,7 @@
 
 
 
-3. Start service with scale
+# 3. Start service with scale
 
   $ docker-compose scale web1=3 web2=5
 
